@@ -42,7 +42,7 @@
                 10
               </h2>
               <p class="leading-relaxed text-gray-100 font-bold">
-                Live Listings
+                Live Listin
               </p>
             </div>
           </div>
