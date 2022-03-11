@@ -98,3 +98,4 @@ def logout():
         response['err_msg'] = 'Not logged in'
         code = BAD_REQUEST
         return response, code
+#comment
